@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='django-hstore',
-    version='1.0.0',
+    version='1.0.1',
     description="Support for PostgreSQL's hstore for Django.",
     long_description=open('README.rst').read(),
     author='Jordan McCoy',
